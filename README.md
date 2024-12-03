@@ -1,4 +1,4 @@
-## Carebeep
+## CareBeep
 This repository contains information about CareBeep – an iPhone app made in SwiftUI, using Xcode.
 
 ### About
@@ -24,7 +24,7 @@ Prerequisites: You must have an iPhone running iOS 17.5 at least.
 <p align="center"></p>
 
 ## Authors
-Juliana Pereira de Magalhães
-Letícia Lima
-Luana Rafaela Gerber
-Maria Tereza Martins Pérez
+Juliana Pereira de Magalhães<br>
+Letícia Lima<br>
+Luana Rafaela Gerber<br>
+Maria Tereza Martins Pérez<br>
