@@ -35,9 +35,11 @@ Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 
 ## Screenshots
 <p align="center">
-<img alt="Project Image 1" width="500" src="[https://github.com/luanagerber/carebeep/main/Documentation/carebeep1.png](https://github.com/luanagerber/carebeep/blob/main/carebeep1.png?raw=true)"></p>
+<img alt="Project Image 1" width="550" src="https://github.com/luanagerber/carebeep/blob/main/carebeep1.png"></p>
+<br>
 <p align="center">
-<img alt="Project Image 2" width="500" src="[https://github.com/luanagerber/carebeep/blob/main/Documentation/carebeep2.png](https://github.com/luanagerber/carebeep/blob/main/carebeep2.png?raw=true)"></p>
+<img alt="Project Image 2" width="950" src="https://github.com/luanagerber/carebeep/blob/main/carebeep2.png"></p>
+<br>
 
 ## Authors
 Juliana Pereira de Magalhães<br>
