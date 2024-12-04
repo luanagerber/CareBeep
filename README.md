@@ -11,25 +11,33 @@ https://apps.apple.com/br/app/carebeep/id6737746972<br>
 
 ## Tools
 - Xcode
-– Figma
-<br>
+- Figma
+
+## Development Skills
+- SwiftUI
+- CloudKit
+- Product Development
+- Project Management
 
 ## Features
-– I
-<br>
-<br>
+- Pairing devices with a pairing code
+- User and paired user identification with personalized names
+- Messages exchange using pictograms
+- In-app notifications
+- Light and dark modes
+- Dynamic Type
+- Localization: English and Portuguese languages
+- VoiceOver
 
 ## How to Run
 Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 1. Download it at AppStore: https://apps.apple.com/br/app/carebeep/id6737746972
-<br>
 
 ## Screenshots
 <p align="center">
-<img alt="Project Screenshot" width="500" src="[https://github.com/luanagerber/carebeep/main/Documentation/carebeep1.png](https://github.com/luanagerber/carebeep/blob/main/carebeep1.png?raw=true)"></p>
+<img alt="Project Image 1" width="500" src="[https://github.com/luanagerber/carebeep/main/Documentation/carebeep1.png](https://github.com/luanagerber/carebeep/blob/main/carebeep1.png?raw=true)"></p>
 <p align="center">
-<img alt="Project Screenshot" width="500" src="[https://github.com/luanagerber/carebeep/blob/main/Documentation/carebeep2.png](https://github.com/luanagerber/carebeep/blob/main/carebeep2.png?raw=true)"></p>
-<br>
+<img alt="Project Image 2" width="500" src="[https://github.com/luanagerber/carebeep/blob/main/Documentation/carebeep2.png](https://github.com/luanagerber/carebeep/blob/main/carebeep2.png?raw=true)"></p>
 
 ## Authors
 Juliana Pereira de Magalhães<br>
