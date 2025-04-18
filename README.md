@@ -14,12 +14,14 @@ With CareBeep you can carry out more everyday activities on your own, knowing th
 ## Tools
 - Xcode
 - Figma
+<br>
 
 ## Development Skills
 - SwiftUI
 - CloudKit
 - Product Development
 - Project Management
+<br>
 
 ## Features
 - Pairing devices with a pairing code
@@ -32,18 +34,20 @@ With CareBeep you can carry out more everyday activities on your own, knowing th
 - VoiceOver
 <br>
 
-## Product Design
-To see the whole product design process, <a href="https://github.com/luanagerber/carebeep/blob/main/CareBeepProductDesign.pdf">access this link</a>.
-<br>
-
 ## How to Run
 Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 1. Download it at AppStore: https://apps.apple.com/br/app/carebeep/id6737746972
+<br>
 
 ## Screenshots
 <p align="center">
 <img alt="Project Image 2" width="950" src="https://github.com/luanagerber/carebeep/blob/main/carebeep2.png"></p>
 <br>
+
+## Product Design
+![CareBeepProductDesign](https://github.com/user-attachments/assets/09a1eecf-de4a-4c20-8327-5792a6df8d0e)
+<br>
+
 ## Authors
 Juliana Pereira de Magalhães<br>
 Letícia Lima<br>
