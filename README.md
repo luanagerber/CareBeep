@@ -44,12 +44,10 @@ Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 <img alt="Project Image 2" width="950" src="https://github.com/luanagerber/carebeep/blob/main/carebeep2.png"></p>
 <br>
 
-## Product Design (Portuguese)
+## Product Design (in Portuguese)
 ![CareBeepProductDesign](https://github.com/user-attachments/assets/09a1eecf-de4a-4c20-8327-5792a6df8d0e)
 <br>
 
 ## Authors
-Juliana Pereira de Magalhães<br>
-Letícia Lima<br>
-Luana Rafaela Gerber<br>
-Maria Tereza Martins Pérez<br>
+**Design:** Letícia Lima<br>
+**Development:** Juliana Magalhães, Luana Gerber e Maria Tereza Pérez
