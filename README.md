@@ -2,7 +2,7 @@
 This repository contains information about CareBeep – an iPhone app made in SwiftUI, using Xcode.<br>
 
 <p align="center">
-<img alt="Project Image 1" width="550" src="https://github.com/luanagerber/carebeep/blob/main/carebeep1.png"></p>
+<img alt="Project Image 1" width="750" src="https://github.com/luanagerber/carebeep/blob/main/carebeep1.png"></p>
 
 ### About
 CareBeep was designed and developed to help people communicate with their caregivers. 
