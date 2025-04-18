@@ -50,4 +50,4 @@ Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 
 ## Authors
 **Design:** Letícia Lima<br>
-**Development:** Juliana Magalhães, Luana Gerber e Maria Tereza Pérez
+**Development:** Juliana Magalhães, Luana Gerber and Maria Tereza Pérez
