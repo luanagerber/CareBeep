@@ -44,7 +44,7 @@ Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
 <img alt="Project Image 2" width="950" src="https://github.com/luanagerber/carebeep/blob/main/carebeep2.png"></p>
 <br>
 
-## Product Design
+## Product Design (Portuguese)
 ![CareBeepProductDesign](https://github.com/user-attachments/assets/09a1eecf-de4a-4c20-8327-5792a6df8d0e)
 <br>
 
