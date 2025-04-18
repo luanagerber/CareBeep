@@ -36,7 +36,7 @@ With CareBeep you can carry out more everyday activities on your own, knowing th
 
 ## How to Run
 Prerequisites: You must have an iPhone running iOS 17.5 at least.<br>
-1. Download it at AppStore: https://apps.apple.com/br/app/carebeep/id6737746972
+1. <a href="https://apps.apple.com/br/app/carebeep/id6737746972">Download it at AppStore</a>
 <br>
 
 ## Screenshots
